@@ -1,0 +1,12 @@
+output
+*.pyc
+*.so
+*.o
+*egg-info
+**/__pycache__/
+**/log
+*.lprof
+*.mat
+*.png
+build
+monoflex.egg-info

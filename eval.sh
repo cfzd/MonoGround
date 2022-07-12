@@ -1,0 +1,1 @@
+python tools/plain_train_net.py --batch_size 8 --config runs/monoground.yaml --ckpt /path/to/model --eval --output ./tmp
